@@ -4,7 +4,6 @@ This repository contains data and code for the article:
 ## Structure
 - `data/` : Dataset (.dta), questionnaire, codebook  
 - `scripts/` : Stata `.do` files for analysis  
-- `docs/` : Manuscript PDF  
 
 ## How to reproduce
 1. Load `dataset.dta` in Stata
